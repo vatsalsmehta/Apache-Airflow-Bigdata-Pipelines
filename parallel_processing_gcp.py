@@ -30,7 +30,7 @@ import math
 
 
 def_argsman={
-    "owner":"sokrati",
+    "owner":"vatron",
     "depends_on_past":False,
     "retry_delay":timedelta(minutes=1),
     "start_date":datetime(2021,7,20),
